@@ -1,0 +1,3 @@
+/home/kirill/Desktop/dz_1/build/CMakeFiles/rebuild_cache.dir
+/home/kirill/Desktop/dz_1/build/CMakeFiles/edit_cache.dir
+/home/kirill/Desktop/dz_1/build/CMakeFiles/add_triangle.dir
